@@ -4,6 +4,12 @@
 # 端口扫描
  - [TXPortMap](https://github.com/4dogs-cn/TXPortMap)：TXPortMap为天象渗透测试平台后端使用的端口扫描和指纹识别模块，采用Golang编写。
 
+# 指纹识别
+ - [Goby-Web指纹在线识别](https://www.godeye.vip/index/)
+ - [在线CMS批量识别](http://whatweb.bugscaner.com/batch.html)
+ - [ThreadScan](https://scan.top15.cn/web/)
+ - [云悉](https://www.yunsee.cn/)
+
 # 漏洞利用
  - [java命令执行在线编码平台](http://www.jackson-t.ca/runtime-exec-payloads.html)
  - [peiqi漏洞库](http://wiki.peiqi.tech/TIME.html)
@@ -17,6 +23,8 @@
 # 溯源
  - [通过邮箱查询密码是否泄露](https://haveibeenpwned.com/)
  - [reg007](https://www.reg007.com/)
+ - [IP查询](https://site.ip138.com/)
+ - 
 
 # 移动安全
  - [iOSApp自动砸壳平台](http://www.dumpapp.com/)
