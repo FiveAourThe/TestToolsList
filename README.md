@@ -14,5 +14,14 @@
  - [Shiro在线解密平台1](https://simolin.cn/tools/shiro/)
  - [Shiro在线解密平台2](http://vulsee.com/tools/shiroDe/shiroDecrypt.html)
 
+# 溯源
+ - [通过邮箱查询密码是否泄露](https://haveibeenpwned.com/)
+ - [reg007](https://www.reg007.com/)
+
 # 移动安全
  - [iOSApp自动砸壳平台](http://www.dumpapp.com/)
+
+# 加/解密
+ - [cmd5](https://www.cmd5.com/)
+ - [somd5](https://www.somd5.com/)
+ - [CTF在线工具](http://ctf.ssleye.com/)
